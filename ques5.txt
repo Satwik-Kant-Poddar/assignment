@@ -1,0 +1,11 @@
+start the program
+take input of two numbers a and b
+If (a>b)
+{
+Then print a
+}
+Else
+{
+Print b
+}
+End
